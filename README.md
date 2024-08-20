@@ -1,7 +1,7 @@
 # Motoko_projects
 
 # Kedi Yönetim Sistemi
-Bu proje, kedilerin eklenmesi, güncellenmesi, silinmesi ve evlat edinilmesi işlemlerini gerçekleştiren basit bir kedi yönetim sistemini içerir. Proje, Motoko programlama dili kullanılarak geliştirilmiştir ve Trie veri yapısını kullanmaktadır.
+Bu proje,kedilerin eklenmesi, güncellenmesi, silinmesi ve evlat edinilmesi işlemlerini gerçekleştiren basit bir blockchain kedi yönetim sistemini içerir. Proje, Motoko programlama dili kullanılarak geliştirilmiştir ve Trie veri yapısını kullanmaktadır.
 
 # Kullanılan Kütüphaneler
 Trie: Temel Trie veri yapısı.
